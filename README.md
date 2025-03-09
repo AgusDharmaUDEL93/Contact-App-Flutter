@@ -49,7 +49,7 @@ users (Collection)
 ## 🚀 How to Run the Project
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/username/contact-app.git
+   git clone https://github.com/AgusDharmaUDEL93/Contact-App-Flutter.git
    cd contact-app
    ```
 2. **Install Dependencies**
