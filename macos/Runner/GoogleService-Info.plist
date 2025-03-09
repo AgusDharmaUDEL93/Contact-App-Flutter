@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>13721575804-kcrtpf62rnq9r635rataugstroa13ube.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.13721575804-kcrtpf62rnq9r635rataugstroa13ube</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>13721575804-rsfs6dmvqb8e4kj0gnol0ri6ukq7v481.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCmvCq3qSd-UDPbJtuPwwwmDVZqdMTyB-U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>13721575804</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.contactApp</string>
+	<key>PROJECT_ID</key>
+	<string>contactapp-firebase</string>
+	<key>STORAGE_BUCKET</key>
+	<string>contactapp-firebase.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:13721575804:ios:98a16f6252aead498644f9</string>
+	<key>DATABASE_URL</key>
+	<string>https://contactapp-firebase-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>

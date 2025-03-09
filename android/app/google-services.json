@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "13721575804",
+    "firebase_url": "https://contactapp-firebase-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "contactapp-firebase",
+    "storage_bucket": "contactapp-firebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13721575804:android:4002706d9881c30a8644f9",
+        "android_client_info": {
+          "package_name": "com.example.contact_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13721575804-b68psip6t9sf9h4j2jd9hmtoj559m02k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoBBXgMVf3oWR5qkAkTxdn5AuRdJZwxxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13721575804-b68psip6t9sf9h4j2jd9hmtoj559m02k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
